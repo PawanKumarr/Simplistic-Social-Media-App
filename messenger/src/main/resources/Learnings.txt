@@ -1,0 +1,7 @@
+Challenges Faced:-
+
+Add moxy, a json marshaller framework
+Project -> Properties -> Web Deployment Assembly -> Add Hibernate jars
+hibernate.cfg.xml not found (got to be at the right location)
+ojdbc.jar not found (better add it to the Hibernate User Library, so that it is never missed out)
+
